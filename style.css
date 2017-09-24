@@ -1,0 +1,16 @@
+body{
+	background: #EEF9F9;
+}
+
+.main-cta{
+	width: 300px;
+	position: absolute;
+	right: 0;
+	left: 0;
+	top: 280px;
+	margin: auto;
+}
+
+.main-cta img{
+	width: 100%;
+}
